@@ -3,7 +3,7 @@
 
 	<property environment="env"/>
 
-	<property name="dataLoaderAPIVersion" value="29.0.0-uber" />
+	<property name="dataLoaderAPIVersion" value="41.0.0-uber" />
 
 	<!-- Define required jars-->
 	<path id="taskDependencies">
